@@ -1,3 +1,14 @@
+The program shows the image tag and two accounts and transaction data by usi ng tag assets/accounts.json
+assets/transactions.json
+assets/bank_logo.png 
+it also uses the logo of the bank and also the buttons like view accounts and transactions details
+click on view accounts shows the list of accounts and transactions button shows the list of transactions. 
+
+
+
+
+
+
 # flutter_application_1
 
 A new Flutter project.
